@@ -3,8 +3,7 @@
 ### 시스템 엔지니어가 되는 것이 꿈입니다!!
 
 ## SNS & Mail
-<a href="https://www.instagram.com/ha2hi_zzx/" target="_blank><"https://img.shields.io/badge/ha2hi_zzx-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-<a href="mailto:doddessto@gmail.com" target="_blank><"https://img.shields.io/badge/ha2hi_zzx-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+<a href="https://instagram.com/@ha2hi_zzx?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/ha2hi_zzx-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 
 ## Studying
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
