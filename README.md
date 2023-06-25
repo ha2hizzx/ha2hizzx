@@ -1,15 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0080FF&center=true&width=435&lines=Hello%2C+I%E2%80%99m+Dong+hyeun.;System+Engineer)](https://git.io/typing-svg)
 
-### 시스템 엔지니어가 되는 것이 꿈입니다!!
+<h2 align = "center" > "시스템 엔지니어가 되는 것이 꿈입니다!!!" </h2>
 
-## SNS & Mail
-
+<h3 align = "center" > "SNS  &  Mail" </h>
 <p align = "center" >
 <a href="https://instagram.com/@ha2hi_zzx?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/ha2hi_zzx-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/doddessto@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
-## Studying
+<h3 align = "center" > "STUDYING" </h3>
 
 <p align = "center" >
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
@@ -21,7 +20,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square-badge&logo=Python&logoColor=white">
 </p>
 
-## Tools
+<h3 align = "center" > "Tools" </h3>
 
 <p align = "center" >
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
