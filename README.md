@@ -3,11 +3,11 @@
 ### 시스템 엔지니어가 되는 것이 꿈입니다!!
 
 ## SNS & Mail
-<p align = "center" >
 <a href="https://instagram.com/@ha2hi_zzx?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/ha2hi_zzx-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/doddessto@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-</p>
+
 ## Studying
+
 <p align = "center" >
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -16,14 +16,18 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square-badge&logo=Python&logoColor=white">
 </p>
+
 ## Tools
+
 <p align = "center" >
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white">
 </p>
+
 ## My Git Start
+
 [![DongHyeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha2hizzx&theme=calm)](https://github.com/ha2hizzx/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha2hizzx&layout=compact&theme=gruvbox)](https://github.com/ha2hizzx/github-readme-stats)
