@@ -1,3 +1,4 @@
+<div align = "center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0080FF&center=true&width=435&lines=Hello%2C+I%E2%80%99m+Dong+hyeun.;System+Engineer)](https://git.io/typing-svg)
 
 <h2 align = "center" > "시스템 엔지니어가 되는 것이 꿈입니다!!!" </h2>
@@ -28,6 +29,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white">
 </p>
+</div>
 
 ## My Git Start
 
