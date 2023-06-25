@@ -4,7 +4,7 @@
 
 ## SNS & Mail
 <a href="https://instagram.com/@ha2hi_zzx?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/ha2hi_zzx-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-
+<img src="https://img.shields.io/badge/doddessto@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 ## Studying
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
